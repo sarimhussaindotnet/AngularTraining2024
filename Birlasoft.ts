@@ -13,3 +13,6 @@ class Person
 }
 let obj = new Person(22,'SARIM');
 obj.Display();
+
+let obj1 = new Person(25,'KASHIF');
+obj1.Display();

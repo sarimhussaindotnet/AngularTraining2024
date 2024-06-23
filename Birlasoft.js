@@ -10,3 +10,5 @@ var Person = /** @class */ (function () {
 }());
 var obj = new Person(22, 'SARIM');
 obj.Display();
+var obj1 = new Person(25, 'KASHIF');
+obj1.Display();
